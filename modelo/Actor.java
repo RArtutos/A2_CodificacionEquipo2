@@ -11,6 +11,8 @@ public class Actor extends Persona{
 	}
 	public void setPapel(String papel){
 		this.papel=papel;
+		papel=papel;
+	
 	}
 
 
